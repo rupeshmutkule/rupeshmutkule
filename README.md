@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rupesh Mutkule</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
-- 🔭 I’m currently working on [nestcase](nestcase.in)
+- 🔭 I’m currently working on [nestcase](https://nestcase.in)
 
 - 🌱 I’m currently learning **LLM, Agentic AI, AWS and n8n**
 
